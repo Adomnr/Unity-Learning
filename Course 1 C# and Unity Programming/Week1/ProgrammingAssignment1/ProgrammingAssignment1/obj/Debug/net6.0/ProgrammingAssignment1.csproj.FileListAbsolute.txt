@@ -1,0 +1,15 @@
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week1\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.exe
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week1\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.deps.json
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week1\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.runtimeconfig.json
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week1\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.dll
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week1\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.pdb
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week1\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.csproj.AssemblyReference.cache
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week1\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week1\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.AssemblyInfoInputs.cache
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week1\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.AssemblyInfo.cs
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week1\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.csproj.CoreCompileInputs.cache
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week1\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.dll
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week1\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\refint\ProgrammingAssignment1.dll
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week1\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.pdb
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week1\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.genruntimeconfig.cache
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week1\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ref\ProgrammingAssignment1.dll
