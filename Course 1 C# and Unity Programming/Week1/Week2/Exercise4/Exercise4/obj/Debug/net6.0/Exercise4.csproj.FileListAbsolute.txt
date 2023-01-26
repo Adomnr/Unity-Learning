@@ -1,0 +1,15 @@
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Exercise4\Exercise4\bin\Debug\net6.0\Exercise4.exe
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Exercise4\Exercise4\bin\Debug\net6.0\Exercise4.deps.json
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Exercise4\Exercise4\bin\Debug\net6.0\Exercise4.runtimeconfig.json
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Exercise4\Exercise4\bin\Debug\net6.0\Exercise4.dll
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Exercise4\Exercise4\bin\Debug\net6.0\Exercise4.pdb
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.csproj.AssemblyReference.cache
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.AssemblyInfoInputs.cache
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.AssemblyInfo.cs
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.csproj.CoreCompileInputs.cache
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.dll
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Exercise4\Exercise4\obj\Debug\net6.0\refint\Exercise4.dll
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.pdb
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.genruntimeconfig.cache
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Exercise4\Exercise4\obj\Debug\net6.0\ref\Exercise4.dll

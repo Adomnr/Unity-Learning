@@ -1,0 +1,15 @@
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\FloatingPointDataTypes\FloatingPointDataTypes\bin\Debug\net6.0\FloatingPointDataTypes.exe
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\FloatingPointDataTypes\FloatingPointDataTypes\bin\Debug\net6.0\FloatingPointDataTypes.deps.json
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\FloatingPointDataTypes\FloatingPointDataTypes\bin\Debug\net6.0\FloatingPointDataTypes.runtimeconfig.json
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\FloatingPointDataTypes\FloatingPointDataTypes\bin\Debug\net6.0\FloatingPointDataTypes.dll
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\FloatingPointDataTypes\FloatingPointDataTypes\bin\Debug\net6.0\FloatingPointDataTypes.pdb
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\net6.0\FloatingPointDataTypes.csproj.AssemblyReference.cache
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\net6.0\FloatingPointDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\net6.0\FloatingPointDataTypes.AssemblyInfoInputs.cache
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\net6.0\FloatingPointDataTypes.AssemblyInfo.cs
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\net6.0\FloatingPointDataTypes.csproj.CoreCompileInputs.cache
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\net6.0\FloatingPointDataTypes.dll
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\net6.0\refint\FloatingPointDataTypes.dll
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\net6.0\FloatingPointDataTypes.pdb
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\net6.0\FloatingPointDataTypes.genruntimeconfig.cache
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\net6.0\ref\FloatingPointDataTypes.dll
