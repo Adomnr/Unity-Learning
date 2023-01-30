@@ -1,0 +1,15 @@
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Final Assignment\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.exe
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Final Assignment\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.deps.json
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Final Assignment\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.runtimeconfig.json
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Final Assignment\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.dll
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Final Assignment\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.pdb
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Final Assignment\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.csproj.AssemblyReference.cache
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Final Assignment\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Final Assignment\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.AssemblyInfoInputs.cache
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Final Assignment\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.AssemblyInfo.cs
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Final Assignment\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.csproj.CoreCompileInputs.cache
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Final Assignment\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.dll
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Final Assignment\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\refint\ProgrammingAssignment2.dll
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Final Assignment\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.pdb
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Final Assignment\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.genruntimeconfig.cache
+D:\Coursera\Unity Specialization\Course 1 C# and Unity Programming\Week2\Final Assignment\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ref\ProgrammingAssignment2.dll
